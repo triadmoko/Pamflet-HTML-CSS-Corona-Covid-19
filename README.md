@@ -7,3 +7,9 @@ kalian boleh memberikan kritik dan saran atau pun repositori baru agar terlihat 
 
 # Tampilan Pamflet
 ![picture](https://github.com/triadmoko/Pamflet-HTML-CSS-Corona-Covid-19-/blob/master/pamflet%20Corona%20virus.png)
+
+Don't forget Follow Social media 
+1. **Instagram** @triadmoko_df [markdown](https://www.instagram.com/triadmoko_df/?hl=id)
+2. **Youtube** TDF Programming [markdown](https://www.youtube.com/channel/UC1lCZMXOA8w_S4LvI3eNz1g)
+
+**Thanks**
